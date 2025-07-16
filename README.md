@@ -1,42 +1,51 @@
-# 👨‍💻Lucas Gabriel
+# 👨‍💻 Lucas Gabriel
 
 **`Desenvolvedor Web`**
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <p>Olá! Me chamo Lucas Gabriel e sou um desenvolvedor em formação apaixonado por tecnologia, design e soluções criativas. Atualmente, estou aprofundando meus conhecimentos em HTML, CSS e JavaScript, desenvolvendo projetos práticos que unem estética e funcionalidade.</p>
-        <p>Busco constantemente aprender novas tecnologias e criar experiências digitais que causem impacto positivo. Estou construindo meu portfólio com projetos que mostram minha evolução e meu comprometimento com o desenvolvimento web.</p>
-        <h3>💡 "A prática leva à perfeição — cada linha de código é um passo rumo ao meu futuro!" </h3>
-    </div>
-    <img src='eu.jpeg' style='border-radius: 30% 0 30% 0; width: 20rem; height: 20rem'>
-</div>
 
+### 📷 Sobre mim
+Olá! Me chamo Lucas Gabriel e sou um desenvolvedor em formação apaixonado por tecnologia, design e soluções criativas. Atualmente, estou aprofundando meus conhecimentos em **HTML**, **CSS** e **JavaScript**, desenvolvendo projetos práticos que unem estética e funcionalidade.
 
-<h3>📱Redes Sociais</h3>
-<div style="width: 100%; display: flex; gap: 1rem; align-items: center;">
-    <a><img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg'></a>
-    <a><img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg'></a>
-    <a><img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg'></a>
-    <a><img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/facebook.svg'></a>
-    <a><img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/youtube.svg'></a>
-</div>
+Busco constantemente aprender novas tecnologias e criar experiências digitais que causem impacto positivo. Estou construindo meu portfólio com projetos que mostram minha evolução e meu comprometimento com o desenvolvimento web.
 
----
-### 🤖Linguagens e Tecnologias que Utilizo
-<div style='width: 3rem; display: flex; gap: 1rem;'>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>
+> 💡 *"A prática leva à perfeição — cada linha de código é um passo rumo ao meu futuro!"*
 
 ---
 
-### 📊Estatísticas
-<p style="display: flex; gap: .2rem">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=lucx23&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucx23&locale=pt-br&theme=tokyonight&layout-compact&custom_title=Tecnologias&langs_count=3">
+### 📱 Redes Sociais
+
+[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg)](https://www.instagram.com/seu_usuario)
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg)](https://www.linkedin.com/in/seu_usuario)
+[![GitHub](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg)](https://github.com/lucx23)
+[![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/facebook.svg)](https://facebook.com/seu_usuario)
+[![YouTube](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/youtube.svg)](https://youtube.com/@seu_canal)
+
+---
+
+### 🤖 Linguagens e Tecnologias que Utilizo
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="32" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="32" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="32" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" height="32" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="32" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="32" alt="npm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="32" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32" alt="Python" />
 </p>
+
+
+---
+
+### 📊 Estatísticas
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lucx23&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucx23&locale=pt-br&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" height="200"/>
+    </td>
+  </tr>
+</table>
