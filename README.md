@@ -14,7 +14,7 @@ Busco constantemente aprender novas tecnologias e criar experiências digitais q
 ### 📱 Redes Sociais
 
 [![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg)](https://www.instagram.com/lg.23_)
-[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg)](https://www.linkedin.com/in/seu_usuario)
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg)](https://www.linkedin.com/in/lucas-gabriel-3b003337)
 [![GitHub](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg)](https://github.com/lucx23)
 [![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/facebook.svg)](https://facebook.com/100004063420400)
 [![YouTube](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/youtube.svg)](https://youtube.com/@lucxx23)
