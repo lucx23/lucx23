@@ -13,11 +13,11 @@ Busco constantemente aprender novas tecnologias e criar experiências digitais q
 
 ### 📱 Redes Sociais
 
-[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg)](https://www.instagram.com/seu_usuario)
+[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg)](https://www.instagram.com/lg.23_)
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg)](https://www.linkedin.com/in/seu_usuario)
 [![GitHub](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg)](https://github.com/lucx23)
-[![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/facebook.svg)](https://facebook.com/seu_usuario)
-[![YouTube](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/youtube.svg)](https://youtube.com/@seu_canal)
+[![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/facebook.svg)](https://facebook.com/Lucas-Gabriel)
+[![YouTube](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/youtube.svg)](https://youtube.com/@lucxx23)
 
 ---
 
